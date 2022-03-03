@@ -1,0 +1,10 @@
+package com.solid.edu.structuredprogramming.methods;
+
+public class Methods1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
