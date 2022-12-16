@@ -5,3 +5,12 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
+
+$(function() {
+	// vitricuaedu = $('#khoiedu').offset().top;
+	// console.log(vitricuaedu);
+
+	$(".kn").click(function() {
+		$('body,html').animate({scrollTop:$('#khoiedu').offset().top},700)
+	})
+})
